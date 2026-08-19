@@ -58,16 +58,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Phirogo](https://phirogo.com) | HRIS Systems | Phalcon · PHP · PostgreSQL · React Native |
-| [Phiro Neo](https://phiro.co) | HCMS Systems | CodeIgniter · PHP · PostgreSQL · Jenkins |
-| [PicCorner](https://picorner.app) | Photobooth platform | Go · PostgreSQL · SolidJS · Docker |
-
----
-
 ### 📊 GitHub Stats
 
 [![Dio's GitHub stats](https://github-readme-stats.vercel.app/api?username=dioselvinus&show_icons=true&theme=github_dark&count_private=true&hide_border=true)](https://github.com/dioselvinus)
