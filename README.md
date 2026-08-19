@@ -58,14 +58,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-[![Dio's GitHub stats](https://github-readme-stats.vercel.app/api?username=dioselvinus&show_icons=true&theme=github_dark&count_private=true&hide_border=true)](https://github.com/dioselvinus)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dioselvinus&layout=compact&theme=github_dark&hide_border=true)](https://github.com/dioselvinus)
-
----
-
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/dioselvinus)
